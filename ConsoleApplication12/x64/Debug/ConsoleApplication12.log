@@ -1,0 +1,49 @@
+﻿  ConsoleApplication12.cpp
+C:\Users\maksi\source\repos\ConsoleApplication12\ConsoleApplication12\Contact.h(19,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "ConsoleApplication12.cpp")
+  
+C:\Users\maksi\source\repos\ConsoleApplication12\ConsoleApplication12\Contact.h(20,9): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "ConsoleApplication12.cpp")
+  
+C:\Users\maksi\source\repos\ConsoleApplication12\ConsoleApplication12\Contact.h(21,9): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "ConsoleApplication12.cpp")
+  
+C:\Users\maksi\source\repos\ConsoleApplication12\ConsoleApplication12\Contact.h(22,9): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "ConsoleApplication12.cpp")
+  
+C:\Users\maksi\source\repos\ConsoleApplication12\ConsoleApplication12\Contact.h(23,9): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "ConsoleApplication12.cpp")
+  
+  Contact.cpp
+C:\Users\maksi\source\repos\ConsoleApplication12\ConsoleApplication12\Contact.h(19,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "Contact.cpp")
+  
+C:\Users\maksi\source\repos\ConsoleApplication12\ConsoleApplication12\Contact.h(20,9): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "Contact.cpp")
+  
+C:\Users\maksi\source\repos\ConsoleApplication12\ConsoleApplication12\Contact.h(21,9): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "Contact.cpp")
+  
+C:\Users\maksi\source\repos\ConsoleApplication12\ConsoleApplication12\Contact.h(22,9): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "Contact.cpp")
+  
+C:\Users\maksi\source\repos\ConsoleApplication12\ConsoleApplication12\Contact.h(23,9): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "Contact.cpp")
+  
+  PhoneBook.cpp
+C:\Users\maksi\source\repos\ConsoleApplication12\ConsoleApplication12\Contact.h(19,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "PhoneBook.cpp")
+  
+C:\Users\maksi\source\repos\ConsoleApplication12\ConsoleApplication12\Contact.h(20,9): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "PhoneBook.cpp")
+  
+C:\Users\maksi\source\repos\ConsoleApplication12\ConsoleApplication12\Contact.h(21,9): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "PhoneBook.cpp")
+  
+C:\Users\maksi\source\repos\ConsoleApplication12\ConsoleApplication12\Contact.h(22,9): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "PhoneBook.cpp")
+  
+C:\Users\maksi\source\repos\ConsoleApplication12\ConsoleApplication12\Contact.h(23,9): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "PhoneBook.cpp")
+  
+  Создание кода...
